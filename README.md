@@ -22,7 +22,7 @@
 ## Запуск и проверка:
 * docker-compose up:
 * ![image](https://github.com/user-attachments/assets/462a1162-018f-46fd-bb47-d4ea361260e5)
-* Создался контейнер, проверка localhost:10101 :
+* Создался образ и сразу после - контейнер, проверка localhost:10101 :
 * ![image](https://github.com/user-attachments/assets/8a6ce251-f693-49fe-8faf-fa5ce96dc188)
 * Сработало корректно
  
