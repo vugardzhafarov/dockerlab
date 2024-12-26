@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: lab
+  flyway:
+    enabled: true
+    locations: classpath:/db/migration
+
+server:
+  port: 10101
