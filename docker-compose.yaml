@@ -14,7 +14,7 @@ services:
       SPRING_DATASOURCE_PASSWORD: docker
 
   db:
-    image: postgres
+    image: postgres:14
     volumes:
       - ./db:/var/lib/postgresql/data
     environment:
